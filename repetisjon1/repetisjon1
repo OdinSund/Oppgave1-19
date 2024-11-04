@@ -1,0 +1,29 @@
+mineOrd = []
+
+str1 = "Jeg er en fisk"
+str2 = "og jeg liker ikke majones"
+
+def slaaSammen(streng1, streng2):
+    return f"{streng1} {streng2}"
+
+liste1 = [1, 2, 3, 4, 5]
+
+def skrivUt(liste):
+    for i in liste:
+        print(i)
+
+print(slaaSammen(str1, str2))
+skrivUt(liste1)
+
+def handle_input(valg):
+    if valg == "i":
+        string1 = input("Skriv inn en streng: ")
+        string2 = input("Skriv inn en annen streng: ")
+        print("Resultat:", slaaSammen(string1, string2))
+    elif valg == "u":
+        skrivUt(liste1)
+
+while (input1 := input('Skriv "i" for aa kjoere funksjonen slaaSammen()\nSkriv "u" for aa kjoere skrivUt()\nSkriv "s" for aa slutte programmet\n').lower()) != "s":
+    handle_input(input1)
+
+print("Programmet avsluttes.")
