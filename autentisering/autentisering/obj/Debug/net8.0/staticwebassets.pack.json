@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\autentisering.bundle.scp.css",
+      "PackagePath": "staticwebassets\\autentisering.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.autentisering.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.autentisering.props",
+      "PackagePath": "build\\autentisering.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.autentisering.props",
+      "PackagePath": "buildMultiTargeting\\autentisering.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.autentisering.props",
+      "PackagePath": "buildTransitive\\autentisering.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

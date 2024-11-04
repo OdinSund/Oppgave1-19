@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|c:\\users\\odinb\\documents\\vg2\\utvikling\\oppgavergeir\\autentisering\\autentisering\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|solutionrelative:autentisering\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|c:\\users\\odinb\\documents\\vg2\\utvikling\\oppgavergeir\\autentisering\\autentisering\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|solutionrelative:autentisering\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|c:\\users\\odinb\\documents\\vg2\\utvikling\\oppgavergeir\\autentisering\\autentisering\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|solutionrelative:autentisering\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|c:\\users\\odinb\\documents\\vg2\\utvikling\\oppgavergeir\\autentisering\\autentisering\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|solutionrelative:autentisering\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|c:\\users\\odinb\\documents\\vg2\\utvikling\\oppgavergeir\\autentisering\\autentisering\\autentisering.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|solutionrelative:autentisering\\autentisering.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|c:\\users\\odinb\\documents\\vg2\\utvikling\\oppgavergeir\\autentisering\\autentisering\\wwwroot\\bootstrap\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|solutionrelative:autentisering\\wwwroot\\bootstrap\\bootstrap.min.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|c:\\users\\odinb\\documents\\vg2\\utvikling\\oppgavergeir\\autentisering\\autentisering\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|solutionrelative:autentisering\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|c:\\users\\odinb\\documents\\vg2\\utvikling\\oppgavergeir\\autentisering\\autentisering\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|solutionrelative:autentisering\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|c:\\users\\odinb\\documents\\vg2\\utvikling\\oppgavergeir\\autentisering\\autentisering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|solutionrelative:autentisering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|c:\\users\\odinb\\documents\\vg2\\utvikling\\oppgavergeir\\autentisering\\autentisering\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|solutionrelative:autentisering\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|c:\\users\\odinb\\documents\\vg2\\utvikling\\oppgavergeir\\autentisering\\autentisering\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C22B7E9D-FAC2-478B-BB3F-551F62CE8C42}|autentisering\\autentisering.csproj|solutionrelative:autentisering\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "autentisering\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Properties\\launchSettings.json",
+              "RelativeToolTip": "autentisering\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T13:42:05.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "autentisering",
+              "DocumentMoniker": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\autentisering.csproj",
+              "RelativeDocumentMoniker": "autentisering\\autentisering.csproj",
+              "ToolTip": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\autentisering.csproj",
+              "RelativeToolTip": "autentisering\\autentisering.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T13:41:53.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.min.css.map",
+              "DocumentMoniker": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+              "RelativeDocumentMoniker": "autentisering\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+              "ToolTip": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+              "RelativeToolTip": "autentisering\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-31T13:41:47.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "autentisering\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Components\\Routes.razor",
+              "RelativeToolTip": "autentisering\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T13:41:42.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\appsettings.json",
+              "RelativeDocumentMoniker": "autentisering\\appsettings.json",
+              "ToolTip": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\appsettings.json",
+              "RelativeToolTip": "autentisering\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T13:41:38.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Components\\App.razor",
+              "RelativeDocumentMoniker": "autentisering\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Components\\App.razor",
+              "RelativeToolTip": "autentisering\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T13:40:06.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "autentisering\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Components\\_Imports.razor",
+              "RelativeToolTip": "autentisering\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T13:41:34.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "autentisering\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "autentisering\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T13:09:08.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "autentisering\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "autentisering\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-31T13:08:58.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "autentisering\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "autentisering\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T13:08:34.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Program.cs",
+              "RelativeDocumentMoniker": "autentisering\\Program.cs",
+              "ToolTip": "C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\autentisering\\autentisering\\Program.cs",
+              "RelativeToolTip": "autentisering\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:08:22.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
