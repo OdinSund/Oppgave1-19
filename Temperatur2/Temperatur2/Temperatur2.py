@@ -1,7 +1,4 @@
-#with open('C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\Temperatur2\\temperatur.txt') as file:
-    
+with open('C:\Users\odinb\Documents\VG2\Utvikling\Oppgave1-19\Temperatur2\\temperatur.txt') as file:
+    print(file.read())
 
-file = open('C:\\Users\\odinb\\Documents\\VG2\\Utvikling\\OppgaverGeir\\Temperatur2\\temperatur.txt', 'r')
-liste = file.readlines()
-print(liste)
-        
+    
